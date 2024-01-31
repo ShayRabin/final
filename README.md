@@ -1,7 +1,8 @@
 # To enter the Admin >>>
 
-admin@gmail.com
-ABcd1234!
+username - admin@gmail.com
+
+passowrd - ABcd1234!
 
 # Getting Started with Create React App
 
