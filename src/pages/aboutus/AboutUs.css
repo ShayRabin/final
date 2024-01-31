@@ -1,0 +1,14 @@
+.about{
+    font-size: 1.5em;
+    line-height: 40px;
+    font-weight: 300;
+    
+}
+.ui.card>.image>img, .ui.cards>.card>.image>img {
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.ui.cards {
+    margin-bottom: 30px !important;
+}
