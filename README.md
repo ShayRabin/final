@@ -4,6 +4,54 @@ username - admin@gmail.com
 
 passowrd - ABcd1234!
 
+# Welcome to the COS project repository!
+This project is a full-stack web application built with React on the client side, utilizing Semantic UI for design. The server side is implemented with Node.js, handling HTTP requests through a REST API. The data is stored in a MongoDB database.
+
+Table of Contents
+Features
+Prerequisites
+Getting Started
+Client Side
+Server Side
+Configuration
+Usage
+Endpoints
+Contributing
+License
+Features
+User Registration and Login with Regex validation
+Token authentication stored in local storage
+Client-side built with React and Semantic UI
+Server-side implemented with Node.js and a REST API
+MongoDB used as the project's database
+Prerequisites
+Make sure you have the following installed before running the application:
+
+Node.js
+MongoDB
+Getting Started
+Client Side
+Navigate to the client directory: cd client.
+Install the dependencies: npm install.
+Start the development server: npm start.
+Open your browser and go to http://localhost:3000.
+Server Side
+Navigate to the server directory: cd server.
+Install the dependencies: npm install.
+Start the server: npm start.
+The server should be running on http://localhost:5000.
+Configuration
+Configure the MongoDB connection in the server/config/db.js file.
+Adjust other configurations in the respective configuration files.
+Usage
+Describe how to use the application and any additional information required.
+
+Endpoints
+Document the available API endpoints and their functionalities.
+
+Contributing
+Feel free to contribute to the project. Follow the contribution guidelines for details.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,50 +121,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-Welcome to the COS project repository!
-This project is a full-stack web application built with React on the client side, utilizing Semantic UI for design. The server side is implemented with Node.js, handling HTTP requests through a REST API. The data is stored in a MongoDB database.
-
-Table of Contents
-Features
-Prerequisites
-Getting Started
-Client Side
-Server Side
-Configuration
-Usage
-Endpoints
-Contributing
-License
-Features
-User Registration and Login with Regex validation
-Token authentication stored in local storage
-Client-side built with React and Semantic UI
-Server-side implemented with Node.js and a REST API
-MongoDB used as the project's database
-Prerequisites
-Make sure you have the following installed before running the application:
-
-Node.js
-MongoDB
-Getting Started
-Client Side
-Navigate to the client directory: cd client.
-Install the dependencies: npm install.
-Start the development server: npm start.
-Open your browser and go to http://localhost:3000.
-Server Side
-Navigate to the server directory: cd server.
-Install the dependencies: npm install.
-Start the server: npm start.
-The server should be running on http://localhost:5000.
-Configuration
-Configure the MongoDB connection in the server/config/db.js file.
-Adjust other configurations in the respective configuration files.
-Usage
-Describe how to use the application and any additional information required.
-
-Endpoints
-Document the available API endpoints and their functionalities.
-
-Contributing
-Feel free to contribute to the project. Follow the contribution guidelines for details.
